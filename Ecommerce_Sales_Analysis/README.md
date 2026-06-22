@@ -1,34 +1,35 @@
-# Ecommerce Sales Analysis
+# IPL Stats Analysis
 
 ## Project Overview
-This project focuses on analyzing ecommerce sales data to uncover sales trends, product performance, and business insights using data analysis techniques.
+This project analyzes IPL (Indian Premier League) data using Python, NumPy, Pandas, and Matplotlib. The goal is to explore player and team performance through data analysis and visualization.
 
-## Tools & Technologies
+## Project Screenshot
+
+![Project Screenshot](Picture.png)
+
+## Features
+- Data cleaning and preprocessing
+- Player performance analysis
+- Team performance analysis
+- Batting statistics
+- Bowling statistics
+- Data visualizations
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
-- Microsoft Excel
+- Matplotlib
+- Google Colab
 
-## Dataset
-The dataset contains ecommerce sales records used for analysis and visualization.
+## How to Run
+1. Open the notebook in Google Colab or Jupyter Notebook.
+2. Install the required libraries if needed.
+3. Run all cells to reproduce the analysis and visualizations.
 
-## Analysis Performed
-- Data Cleaning and Preprocessing
-- Sales Trend Analysis
-- Category-wise Performance Analysis
-- Revenue Analysis
-- Data Visualization
-
-## Files Included
-- Ecommerce_Sales_Analysis.xlsx
-- Project Screenshot
-
-## Key Insights
-- Identified top-performing product categories.
-- Analyzed overall sales and revenue trends.
-- Generated visualizations for better understanding of the data.
-- Extracted meaningful business insights from sales records.
-
-## Author
-Rishav Thakur
-B.Tech CSE | Data Analytics & Data Science Enthusiast
+## Project Structure
+```text
+IPL-Stats-Analysis/
+├── README.md
+├── Picture.png
+└── IPL_Analysis.ipynb
