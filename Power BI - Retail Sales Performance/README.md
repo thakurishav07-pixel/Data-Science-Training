@@ -19,7 +19,7 @@ This project showcases an interactive **Retail Sales Performance Dashboard** bui
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Features
 - 📈 Interactive KPI Cards
