@@ -97,8 +97,7 @@ The **Superstore Sales Performance Dashboard** is an interactive Power BI projec
 ```
 Superstore-Sales-Performance-Dashboard/
 │
-├── Dashboard/
-│   └── Dashboard.png
+├── Dashboard.png 
 │
 ├── Power BI Superstore Sales Dashboard.pbix
 │
