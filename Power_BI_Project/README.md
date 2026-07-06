@@ -112,6 +112,6 @@ Superstore-Sales-Performance-Dashboard/
 
 **Rishav Thakur**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *linkedin.com/in/rishav362*
 
-GitHub: *(Add your GitHub Profile URL)*
+GitHub: *https://github.com/thakurishav07-pixel*
